@@ -99,7 +99,7 @@ function App() {
                 <div className="px-5 lg:text-sm xl:text-lg 2xl:text-3xl">Pongsathon Meewaeosaeng</div>
                 <div className="flex gap-x-[10px]">
                     <a target="_blank"href="https://www.facebook.com/PST.Kong/" className="hover:text-[#1877F2]"><FaFacebook className="text-[50px]" /></a>
-                    <a target="_blank" href="https://github.com/KongPongsathon?tab=repositories" className="hover:text-[#a378b5]"><FaGithub className="text-[50px]" /></a>
+                    <a target="_blank" href="https://github.com/KongPongthon" className="hover:text-[#a378b5]"><FaGithub className="text-[50px]" /></a>
                 </div>
           </div>
             <nav className="text-white">
@@ -288,45 +288,6 @@ function App() {
                     </div>                    
                   </div>
                   ))}
-
-
-                  {/* <div className="pb-5">
-                    <div className="border rounded-lg shadow-2xl shadow-black px-5 py-5 bg-slate-50">
-                      <div className="text-black text-center 2xl:text-3xl xl:text-2xl text-xl pb-3">Blog Review</div>          
-                      <div className="text-black 2xl:flex">
-                        <img className="px-5 object-cover bg-cover bg-center 2xl:w-[850px] 2xl:h-[400px] xl:w-[1100px] lg:w-[750px] md:w-[600px] w-[450px]" src="CapturesP1.PNG"/>
-                        <div className="2xl:text-2xl xl:text-xl text-sm">
-                          Blog Review Website Project
-                          <p>( CRUD Application )</p>
-                          <div>Project created by
-                            <p>- ReactJs</p>
-                            <p>- Node.js ( Express.js )</p>
-                            <p>- MongoDB</p>
-                            <p>- Tailwind CSS</p>
-                            <div>Source code
-                              <p><a className="w-full" href="https://github.com/KongPongsathon/WebsiteBlog">https://github.com/KongPongsathon/WebsiteBlog</a></p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>             */}
-                  {/* <div className="border rounded-lg shadow-2xl shadow-black px-5 py-5 bg-slate-50">
-                    <div className="text-black text-center 2xl:text-3xl xl:text-2xl text-xl">Blog Review</div>          
-                    <div className="text-black 2xl:flex">            
-                      <img className="pr-5 object-cover bg-cover bg-center 2xl:w-[850px] 2xl:h-[400px] xl:w-[1100px] lg:w-[750px] md:w-[600px] w-[450px]" src="CaptureP2.PNG"/>
-                      <div className="2xl:text-2xl xl:text-xl text-sm">
-                        Portfolio website
-                        <div>Project created by
-                          <p>- ReactJs</p>
-                          <p>- Tailwind CSS</p>
-                          <div>Source code
-                            <p><a href="https://github.com/KongPongsathon/Port">https://github.com/KongPongsathon/Port</a></p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div> */}
                 </div>  
               </div>
             </section>        
@@ -346,7 +307,7 @@ function App() {
                     <div className="text-[150px] flex justify-center"><FaGithub /></div>
                     <div>
                       <div className="text-center">Github</div>
-                      <div><a className="text-center" target="_blank" href="https://github.com/KongPongsathon">https://github.com/KongPongsathon</a></div>
+                      <div><a className="text-center" target="_blank" href="https://github.com/KongPongthon">https://github.com/KongPongthon</a></div>
                     </div>
                   </div>
                   <div className="">
