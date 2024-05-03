@@ -27,7 +27,7 @@ function App() {
         toolsNameIs3:'- MongoDB',
         toolsNameIs4:'- Tailwind CSS',
         },
-      githubhref:'https://github.com/KongPongsathon/WebsiteBlog'
+      githubhref:'https://github.com/KongPongthon/WebsiteBlog'
     },
     {
       id:'2',
@@ -38,7 +38,7 @@ function App() {
         toolsNameIs1:'- ReactJs',
         toolsNameIs2:'- Tailwind CSS',
       },
-      githubhref:'https://github.com/KongPongsathon/Port'
+      githubhref:'https://github.com/KongPongthon/Port'
     },
   ]
 
